@@ -2,7 +2,6 @@
 
 //Created by wasd171
 
-//Testing GIT
 
 void setup() {
 
